@@ -1,0 +1,22 @@
+{
+  "name": "Pandora",
+  "version": "0.1.0",
+  "summary": "A short description of Pandora.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gomminjae/Pandora",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gomminjae": "gommj0611@naver.com"
+  },
+  "source": {
+    "git": "https://github.com/gomminjae/Pandora.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Pandora/Classes/**/*"
+}

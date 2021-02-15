@@ -1,0 +1,6 @@
+framework module Pods_Pandora_Tests {
+  umbrella header "Pods-Pandora_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
